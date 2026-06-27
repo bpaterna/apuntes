@@ -1,12 +1,12 @@
-site_name: Acceso a datos
-site_url: https://bpaterna.github.io/acceso_datos/
+site_name: Apuntes
+site_url: https://bpaterna.github.io/apuntes/
 site_author: Begoña Paterna
 theme:
   name: material
   language: es
   palette:
     scheme: default
-    primary: red
+    primary: blue
   features:
     - content.code.copy
     - content.tabs.link
@@ -18,16 +18,6 @@ theme:
     - toc.integrate
 nav:
   - Presentación: index.md
-  - Contenido:
-    - Acceso a BD relacionales: 2_BD_relacionales.md
-    - Acceso a BD documentales: 3_BD_documentales.md
-    - Componentes: 4_Componentes.md
-  - Material adicional:
-    - AWS Learner Lab: AWSlab.md
-    - DB Browser SQLite: db_browser_sqlite.md
-    - DBeaver: dbeaver.md
-    - MySQL: mysql.md
-    - MongoDB: mongo.md
 markdown_extensions:
   - attr_list
   - admonition
@@ -41,8 +31,3 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 use_directory_urls: false
-plugins:
-  - with-pdf:
-      output_path: pdf/acceso_datos.pdf
-      cover: true
-      toc_title: "Índice"
