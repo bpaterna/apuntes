@@ -1,4 +1,4 @@
-/*.mi_h2 {color: #ef5552; font-size:26pt;}*/
+/* color theme red = #ef5552 */
 
 h1{color: #ef5552 !important;}
 h2{color: #ef5552 !important;}
@@ -7,6 +7,8 @@ h3{color: #ef5552 !important;}
 img {border:#767676 solid 2px;}
 
 .md-nav label { color:#ef5552 !important; font-size: .9rem !important;}
+
+.md-nav__title .md-nav__button.md-logo svg {fill: #ffffff;}
 
 .mi_h2 {
   color: #ef5552;
