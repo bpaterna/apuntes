@@ -16,6 +16,9 @@ Intercaladas con la teoría y con los ejemplos encontrarás tres tipos de cajas.
     Nam et orci ex. Mauris sed ex nec leo iaculis auctor. Cras vel elit ornare ligula ullamcorper porta eu eu metus. Curabitur non sodales risus, venenatis tempus tortor. Aliquam sed nunc libero.
 
 
+<span class="mi_h3">Documentación</span>
+
+Plantilla creada con el tema Material for MkDocs, documentación en [https://squidfunk.github.io/mkdocs-material/setup/](https://squidfunk.github.io/mkdocs-material/setup/)
 
 
 ---
